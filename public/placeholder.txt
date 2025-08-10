@@ -1,0 +1,1 @@
+Place any static assets (images, icons) in this folder.
